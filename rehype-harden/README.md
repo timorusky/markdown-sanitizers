@@ -1,5 +1,7 @@
 # rehype-harden
 
+test
+
 A rehype plugin that ensures that untrusted markdown does not contain images from and links to unexpected origins.
 
 This is particularly important for markdown returned from [LLMs in AI agents which might have been subject to prompt
